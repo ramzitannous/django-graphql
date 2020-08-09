@@ -1,0 +1,7 @@
+graphene
+django
+graphene-django
+django-filter
+graphene_django_cud
+django-admin-interface
+django-graphql-jwt
